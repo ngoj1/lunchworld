@@ -1,4 +1,6 @@
 ---
-title: Welcome to my blog
+title: Justin's lunch around the world
+
+ok
 ---
 
